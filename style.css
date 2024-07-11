@@ -134,17 +134,20 @@ input:focus {
         width: 50%;
     }
  }
- @media (max-width: 500px) {
+@media (max-width: 500px) {
     .form {
         width: 230px;
+        gap: 10px;
+        height: fit-content;
     }
     .body{
-        height: 31em;
- 
+        height: 36em;
+        gap: 10px; 
     }
     .row{
         flex-direction: column;
         justify-content:space-between ;
+        gap: 10px;
     }
     .row .part {
         padding: 2px;
@@ -152,13 +155,16 @@ input:focus {
     }
     .row-top{
         flex-direction: column;
+        gap: 10px;
     }
     .check-term{
         width: 100%;
         justify-content: left;
+        gap: 10px; 
     }
     .term{
         width: 100%;
     }
- }
+}
+
  
