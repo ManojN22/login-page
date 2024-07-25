@@ -41,20 +41,13 @@ The CSS ensures the form is:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/ManojN22/login-page
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd login-page
     ```
 
 3. Open the `index.html` file in your browser to view the form.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
